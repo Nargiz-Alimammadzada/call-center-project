@@ -10,7 +10,16 @@ The analysis focuses on identifying trends, evaluating call center performance, 
 - Identified peak call hours.
 - Analyzed customer satisfaction ratings.
 - Evaluated agent performance.
-- Visualized call trends using charts
+- Visualized call trends using charts                                                                                                                  ## Visualizations
+
+### Call Distribution
+![Call Distribution](call_distribution.png)
+
+### Calls by Day
+![Calls by Day](calls_by_day.png)
+
+### Heatmap
+![Heatmap](heatmap.png)
  ## Tools & Libraries
 
 * Python
