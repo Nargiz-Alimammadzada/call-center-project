@@ -5,8 +5,13 @@
 This project presents an Exploratory Data Analysis (EDA) of a Call Center dataset using Python, Pandas, Matplotlib, and Seaborn.
 
 The analysis focuses on identifying trends, evaluating call center performance, and presenting insights through data visualization.
+## Key Insights
 
-## Tools & Libraries
+- Identified peak call hours.
+- Analyzed customer satisfaction ratings.
+- Evaluated agent performance.
+- Visualized call trends using charts
+ ## Tools & Libraries
 
 * Python
 * Pandas
