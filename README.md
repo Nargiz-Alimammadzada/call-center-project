@@ -67,10 +67,12 @@ Call-Center-Project
 <p align="center">
   <img src="call_distribution.png" width="700">
 </p>
+
 <p align="center">
   <img src="calls_by_day.png" width="700">
 </p>
-p align="center">
+
+ <p align="center">
   <img src="heatmap.png" width="700">
 </p>
 
