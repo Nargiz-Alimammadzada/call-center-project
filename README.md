@@ -3,7 +3,6 @@
 <p align="center">
 <img src="images/dashboard.png" width="900">
 </p>
-2. Project Overview
 ## 📌 Project Overview
 
 This project analyzes over 90,000 emergency call records to discover customer behavior, peak hours, response trends, and operational insights.
