@@ -89,4 +89,4 @@ The workflow includes:
 - Business Insights
 ## 👩‍💻 Author
 
-**Nərgiz Əliməmmədzadə**
+**Nargiz Alimammadzada**
