@@ -1,47 +1,84 @@
-# 📊 Call Center Project
+# 📞 Call Center Data Analysis Dashboard
+### Data Analysis Project using Python | Pandas | Matplotlib | Seaborn
+<p align="center">
+<img src="images/dashboard.png" width="900">
+</p>
+2. Project Overview
+## 📌 Project Overview
 
-## Overview
+This project analyzes over 90,000 emergency call records to discover customer behavior, peak hours, response trends, and operational insights.
 
-This project presents an Exploratory Data Analysis (EDA) of a Call Center dataset using Python, Pandas, Matplotlib, and Seaborn.
+The analysis was performed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn inside Jupyter Notebook.
+## 📂 Dataset
 
-The analysis focuses on identifying trends, evaluating call center performance, and presenting insights through data visualization.
-## Key Insights
+Source: Kaggle 911 Emergency Calls Dataset
 
-- Identified peak call hours.
-- Analyzed customer satisfaction ratings.
-- Evaluated agent performance.
-- Visualized call trends using charts                                                                                                                  
-## Visualizations
-### Call Distribution
-![Call Distribution](call_distribution.png)
+Features include:
 
-### Calls by Day
-![Calls by Day](calls_by_day.png)
+- Call Type
+- Timestamp
+- Township
+- Zip Code
+- Latitude & Longitude
+- Emergency Reason
+- ## 🛠️ Technologies
 
-### Heatmap
-![Heatmap](heatmap.png)
- ## Tools & Libraries
+<p>
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## Project Goals
+<img src="https://skillicons.dev/icons?i=github"/>
 
-* Clean and prepare the dataset
-* Explore call center performance
-* Visualize key metrics
-* Generate meaningful business insights
+</p>
 
-## Project Files
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- ## 📁 Project Structure
 
-* `Call Center.ipynb` – Data analysis notebook
-* `Call Center.csv` – Dataset
-* `README.md` – Project documentation
+Call-Center-Project
+│
+├── data
+│   └── 911.csv
+│
+├── notebook
+│   └── Call_Center.ipynb
+│
+├── images
+│   ├── heatmap.png
+│   ├── monthly_calls.png
+│   ├── countplot.png
+│   └── dashboard.png
+│
+└── README.md
+## 📈 Key Insights
 
-## Author
+✔ EMS calls represent the largest category.
+
+✔ Most calls occur during weekdays.
+
+✔ Call volume peaks during daytime.
+
+✔ Seasonal trends can be observed throughout the year.
+
+✔ Heatmap analysis reveals monthly activity patterns.
+## 📊 Visualizations
+<img src="images/countplot.png" width="700">
+<img src="images/monthly_calls.png" width="700">
+<img src="images/clustermap.png" width="700">
+## ✅ Conclusion
+
+This project demonstrates exploratory data analysis techniques using Python to uncover meaningful patterns from emergency call records.
+
+The workflow includes:
+
+- Data Cleaning
+- Feature Engineering
+- Visualization
+- Trend Analysis
+- Business Insights
+- ## 👩‍💻 Author
 
 **Nərgiz Əliməmmədzadə**
-
