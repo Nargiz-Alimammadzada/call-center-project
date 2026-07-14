@@ -62,9 +62,33 @@ Call-Center-Project
 
 ✔ Heatmap analysis reveals monthly activity patterns.
 ## 📊 Visualizations
-<img src="images/countplot.png" width="700">
-<img src="images/monthly_calls.png" width="700">
-<img src="images/clustermap.png" width="700">
+### Emergency Calls by Reason
+
+This chart shows the distribution of emergency calls across the three main categories: **EMS**, **Fire**, and **Traffic**. It helps identify the most common type of emergency.
+
+<p align="center">
+  <img src="images/countplot.png" width="700">
+</p>
+
+---
+
+### Monthly Emergency Call Trend
+
+This line chart illustrates how the number of emergency calls changes over time, making it easier to identify monthly trends and seasonal patterns.
+
+<p align="center">
+  <img src="images/monthly_calls.png" width="700">
+</p>
+
+---
+
+### Emergency Calls Heatmap
+
+The heatmap visualizes call frequency by **day of the week** and **hour of the day**, highlighting peak periods of emergency activity.
+
+<p align="center">
+  <img src="images/heatmap.png" width="700">
+</p>
 
 ## ✅ Conclusion
 
