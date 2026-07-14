@@ -21,25 +21,18 @@ Features include:
 - Zip Code
 - Latitude & Longitude
 - Emergency Reason
-- ## 🛠️ Technologies
+ ## 🛠️ Technologies
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="images/clustermap.png" width="700">
-
-</p>
 
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- ## 📁 Project Structure
+ ## 📁 Project Structure
 
+```text
 Call-Center-Project
 │
 ├── data
@@ -49,12 +42,14 @@ Call-Center-Project
 │   └── Call_Center.ipynb
 │
 ├── images
-│   ├── heatmap.png
-│   ├── monthly_calls.png
+│   ├── dashboard.png
 │   ├── countplot.png
-│   └── dashboard.png
+│   ├── monthly_calls.png
+│   ├── heatmap.png
+│   └── clustermap.png
 │
 └── README.md
+```
 ## 📈 Key Insights
 
 ✔ EMS calls represent the largest category.
@@ -82,6 +77,6 @@ The workflow includes:
 - Visualization
 - Trend Analysis
 - Business Insights
-- ## 👩‍💻 Author
+## 👩‍💻 Author
 
 **Nərgiz Əliməmmədzadə**
