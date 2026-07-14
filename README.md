@@ -65,23 +65,13 @@ Call-Center-Project
 ### Emergency Calls by Reason
 
 <p align="center">
-  <img src="README/countplot.png" width="700">
+  <img src="call_distribution.png" width="700">
 </p>
-
----
-
-### Monthly Emergency Call Trend
-
 <p align="center">
-  <img src="README/monthly_calls.png" width="700">
+  <img src="calls_by_day.png" width="700">
 </p>
-
----
-
-### Emergency Calls Heatmap
-
-<p align="center">
-  <img src="README/heatmap.png" width="700">
+p align="center">
+  <img src="heatmap.png" width="700">
 </p>
 
 ## ✅ Conclusion
