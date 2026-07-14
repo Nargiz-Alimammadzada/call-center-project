@@ -3,6 +3,7 @@
 <p align="center">
 <img src="images/dashboard.png" width="900">
 </p>
+
 ## 📌 Project Overview
 
 This project analyzes over 90,000 emergency call records to discover customer behavior, peak hours, response trends, and operational insights.
@@ -27,6 +28,8 @@ Features include:
 <img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="images/clustermap.png" width="700">
 
 </p>
 
@@ -67,6 +70,7 @@ Call-Center-Project
 <img src="images/countplot.png" width="700">
 <img src="images/monthly_calls.png" width="700">
 <img src="images/clustermap.png" width="700">
+
 ## ✅ Conclusion
 
 This project demonstrates exploratory data analysis techniques using Python to uncover meaningful patterns from emergency call records.
